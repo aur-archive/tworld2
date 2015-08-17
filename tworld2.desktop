@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Tile World
+Comment=Chip's Challenge clone
+Icon=tworld2
+Categories=Game;
+
+Exec=tworld2
